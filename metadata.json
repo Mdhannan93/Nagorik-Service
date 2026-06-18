@@ -1,0 +1,6 @@
+{
+  "name": "Union Digital Centre Service",
+  "description": "Comprehensive local service directory, registration tracker, and Google Search Grounded AI digital assistant for Bangladesh Union Digital Centres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
